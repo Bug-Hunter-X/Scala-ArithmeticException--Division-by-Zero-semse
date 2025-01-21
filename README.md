@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Scala: the `ArithmeticException` caused by division by zero.  The `bug.scala` file contains code that throws this exception. The `bugSolution.scala` file shows how to prevent this using a `try-catch` block or pattern matching for robust error handling.
